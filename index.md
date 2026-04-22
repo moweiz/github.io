@@ -3,7 +3,7 @@ layout: default
 title: My Blog
 ---
 
-# Welcome to Connect2Aryans Tech Blog 🚀
+# Welcome to Connect 2 Aryans Tech Blog 🚀
 
 We share blogs about gaming PCs, How-To Guides, Product Comparisons, and buying guides.
 
