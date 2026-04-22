@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: "Best AMD Ryzen Processors for Gaming & Productivity in 2026"
