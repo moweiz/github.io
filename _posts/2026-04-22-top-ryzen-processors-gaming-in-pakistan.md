@@ -11,7 +11,7 @@ author: Connect2Aryans
 
 <div style="text-align:center; margin-bottom:25px;">
 <a href="https://www.connect2aryans.com/processors-price-in-pakistan/ryzen-processor/" target="_blank" style="background:#007bff; color:white; padding:12px 25px; border-radius:6px; text-decoration:none; font-weight:bold;">
-Explore Intel Processors
+Explore Ryzen Processors
 </a>
 </div>
 
