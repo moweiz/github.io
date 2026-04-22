@@ -5,7 +5,7 @@ title: My Blog
 
 # Welcome to Connect 2 Aryans Tech Blog 🚀
 
-We share blogs about gaming PCs, How-To Guides, Product Comparisons, and buying guides.
+We share blogs about Gaming PCs, How-To Guides, Product Comparisons, and Buying Guides.
 
 ## Latest Posts
 
