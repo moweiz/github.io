@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Top Intel Processors for Gaming & Workstations (2026 Pakistan Guide)"
-date: 2026-04-22
-categories: [Processors, Intel, Gaming, Guides]
-tags: [Intel Processors, Gaming PC, Core i5, Core i7, Core i9, Xeon, Pakistan]
-author: Connect2Aryans
+Title: "Top Intel Processors for Gaming & Workstations (2026 Pakistan Guide)"
+Date: 2026-04-22
+Categories: [Processors, Intel, Gaming, Guides]
+Tags: [Intel Processors, Gaming PC, Core i5, Core i7, Core i9, Xeon, Pakistan]
+Author: Connect2Aryans
 ---
 
 # Top Intel Processors for Gaming & Workstations (2026 Pakistan Guide)
