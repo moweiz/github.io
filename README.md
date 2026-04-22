@@ -1,2 +1,2 @@
 # github.io
-Tech blog covering gaming, PC hardware, and guides with links to latest products and categories.
+Tech blog for gaming, PC components, and guides with direct links to product pages and categories.
